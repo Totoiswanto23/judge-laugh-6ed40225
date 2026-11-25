@@ -8,7 +8,7 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 
 // The joke: the office printer only ever jams right before a deadline,
 // so the punchline flips its job description — jamming is the real job,
-// printing is the side hustle.
+// and printing is just the side hustle it does between jams.
 const LINE =
   "Our office printer only jams when a deadline is five minutes away, so I've decided jamming is its actual job and printing is just its side hustle.";
 
